@@ -18,6 +18,12 @@
   margin-bottom: auto;
   margin-right: 25%;
 }
+
+.container img {
+  width: 15px;
+  height: 10px;
+  margin: 1.5% 75% -2.5% 11%;
+}
 .container p {
   font-family: Montserrat;
   font-style: italic;
@@ -495,4 +501,23 @@
 
 .info-card-4 strong {
   margin: 8px;
+}
+.link {
+  margin-left: 18%;
+}
+.link p {
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #bdbdbd;
+}
+
+.footer {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
