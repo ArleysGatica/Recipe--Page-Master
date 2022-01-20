@@ -70,7 +70,6 @@ margin-left: -10%;
 }
 .seccion-check{
     width: 32%;
-    height: 70%;
     display: grid;
     margin-left: 17.5%;
     margin-top: -2px;
@@ -85,6 +84,7 @@ margin-left: -10%;
       margin-top: 23px;
     display: flex;
     float: left;
+    accent-color: rgba(242, 153, 74, 1);
 }
 
 .check-2{
@@ -96,8 +96,9 @@ margin-left: -10%;
       margin-top: 19px;
     display: flex;
     float: left;
+    accent-color: rgba(242, 153, 74, 1);
 }
-
+  
 .check-3{
     display: flex;
     float: left;
@@ -107,4 +108,96 @@ margin-left: -10%;
       margin-top: 19px;
     display: flex;
     float: left;
+    accent-color: rgba(242, 153, 74, 1);
 }
+
+.seccion-check-info{
+   width: 32%;
+    display: grid;
+    margin-left: 17.5%;
+    margin-top: -2px;
+}
+
+.seccion-check-info h4{
+ font-family: Playfair Display;
+    font-style: italic;
+    font-weight: normal;
+  
+}
+
+.segund-check-1{
+    display: flex;
+    float: left;
+    margin-top: -10px;
+}
+.segund-check-1 input{
+      margin-top: 19px;
+    display: flex;
+    float: left;
+    accent-color: rgba(242, 153, 74, 1);
+}
+
+.segund-check-2{
+    display: flex;
+    float: left;
+    margin-top: -10px;
+  }
+
+  .segund-check-2 input{
+      margin-top: 19px;
+    display: flex;
+    float: left;
+    accent-color: rgba(242, 153, 74, 1);
+  }
+
+  .segund-check-3{
+    display: flex;
+    float: left;
+    margin-top: -10px;
+  }
+
+  .segund-check-3 input{
+      margin-top: 19px;
+    display: flex;
+    float: left;
+    accent-color: rgba(242, 153, 74, 1);
+  }
+
+  .segund-check-4{
+    display: flex;
+    float: left;
+    margin-top: -10px;
+  }
+
+  .segund-check-4 input{
+      margin-top: 19px;
+    display: flex;
+    float: left;
+    accent-color: rgba(242, 153, 74, 1);
+  }
+
+  .segund-check-5{
+    display: flex;
+    float: left;
+    margin-top: -10px;
+  }
+
+  .segund-check-5 input{
+      margin-top: 19px;
+    display: flex;
+    float: left;
+    accent-color: rgba(242, 153, 74, 1);
+  }
+
+  .segund-check-6{
+    display: flex;
+    float: left;
+    margin-top: -10px;
+  }
+
+  .segund-check-6 input{
+      margin-top: 19px;
+    display: flex;
+    float: left;
+     accent-color: rgba(242, 153, 74, 1);
+  }
